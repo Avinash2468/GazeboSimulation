@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/avinash/set_speed_joint_cpp/devel/setup.sh
